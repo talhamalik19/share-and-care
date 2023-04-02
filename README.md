@@ -26,11 +26,11 @@ A multi-platform solution that provides hospitals and users (public) an easy way
 
 ## Repositories
 
-- [Web App](https://github.com/sudo-umair/share-and-care-web)
+- [Web App](https://github.com/talhamalik19/Share-and-Care-web.git)
 
-- [Mobile App](https://github.com/sudo-umair/share-and-care-app)
+- [Mobile App](https://github.com/talhamalik19/Share-and-Care-app.git)
 
-- [Server](https://github.com/sudo-umair/share-and-care-server)
+- [Server](https://github.com/talhamalik19/Share-and-Care-server.git)
 
 ## Deployments
 
